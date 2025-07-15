@@ -8,5 +8,9 @@
 * **Relation Tensor Loss**: encourages locally clustered points (from KMeans) to share similar latent dynamics.
 
 In experiments on synthetic physics‑governed datasets (e.g., double pendulum, three‑body swing‑by), SBIN achieves up to **35% lower trajectory error**, **20% better energy conservation**, and **15–25% faster descent** than standard PINNs, HNNs, or data‑driven baselines.
+## License
+
+This publication is licensed under **Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International (CC BY‑NC‑ND 4.0)**.  
+You may share this work non‑commercially in its original form, with proper attribution.  
 
 ##
